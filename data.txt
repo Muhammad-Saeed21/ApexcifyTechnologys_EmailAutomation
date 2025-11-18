@@ -1,0 +1,32 @@
+Hello Team,
+
+This is some sample text for testing the email extraction program.
+Please contact us at support@taumart.com for any technical issues.
+
+You can also reach our HR department at hr.office@Tmart.org.
+For business inquiries, email us at taumart@gmail.com or sales@shop-now.com.
+
+You may also contact these departments:
+customer.care@flipkart.com
+help@amazonservices.com
+team@netflixsupport.net
+support@airbnbhelpdesk.org
+contact@uberinfo.co
+service@daraz-team.pk
+
+Duplicate test email: business123@gmail.com
+
+Our old contact email was taumart@gmail.com, but it is no longer active.
+Feel free to send your documents to taumart.official@gmail.com
+
+Additional emails for testing:
+savaGEnew@gmail.com
+rajputsaeed573@gmail.com
+hasnain43@gmail.com
+waris78sa@gmail.com
+kashifraj54@gmail.com
+ar3763784@gmail.com
+Thank you!
+Regards,
+Sample User
+Email: sample.user@testmail.com
